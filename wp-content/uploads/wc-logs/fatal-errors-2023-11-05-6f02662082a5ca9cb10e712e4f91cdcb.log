@@ -1,0 +1,2 @@
+2023-11-05T05:03:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\foodcafe\wp-includes\Requests\src\Transport\Curl.php on line 205
+
